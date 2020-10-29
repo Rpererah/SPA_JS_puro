@@ -63,4 +63,4 @@ function validaCPF(cpf){
     )
 }
 
-export default validaCPF;
+export default validaCPF
